@@ -15,7 +15,7 @@ public class DayOfTheWeekChallenge {
        
         switch(day){
             case 0:
-                System.out.println("Sunday);
+                System.out.println("Sunday");
                 break;
             case 1:
                 System.out.println("Monday");
