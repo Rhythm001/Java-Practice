@@ -7,3 +7,7 @@ Each question is checked on the software if it is copied from web(I think, but I
 Here I have posted my answers for each question in the exercise. 
 
 I am not a person who regularly updates on github. I rather like to accumulate some and directly post them after some/many days.
+
+30/06/2022 update
+Along with the masterclass, now I also do some problems from various YouTube channels.
+I have started competitive programming in codechef. @rhythm001
